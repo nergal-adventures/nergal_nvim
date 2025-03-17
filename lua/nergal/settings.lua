@@ -14,4 +14,4 @@ vim.opt.termguicolors = true
 
 vim.opt.wildmenu = true
 vim.opt.wildmode = "list:longest,list:full"
-vim.opt.tw = 80
+vim.opt.tw = 100
