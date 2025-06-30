@@ -1,3 +1,10 @@
-require("nergal.remap")
-require("nergal.lazy")
-require("nergal.settings")
+require("nergal.config.settings")
+require("nergal.config.keymaps")
+require("nergal.config.lazy")
+require("nergal.config.icons")
+require("nergal.config.lualine")
+require("nergal.config.cmp")
+require("nergal.config.telescope")
+require("nergal.config.harpoon")
+require("nergal.config.lsp")
+
