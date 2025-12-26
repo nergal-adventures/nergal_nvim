@@ -9,3 +9,5 @@ require("nergal.config.harpoon")
 require("nergal.config.lsp")
 require("nergal.config.diagnostics")
 require("nergal.config.lspcolors")
+require("nergal.config.crunner")
+
