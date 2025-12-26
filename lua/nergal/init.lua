@@ -7,4 +7,5 @@ require("nergal.config.cmp")
 require("nergal.config.telescope")
 require("nergal.config.harpoon")
 require("nergal.config.lsp")
-
+require("nergal.config.diagnostics")
+require("nergal.config.lspcolors")
