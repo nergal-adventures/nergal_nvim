@@ -2,7 +2,7 @@ require("nvim-treesitter.configs").setup({
 	ensure_installed = {
 		"lua", "c", "bash", "python", "kotlin", "swift"
 	},
-	sync_install = false,
+	sync_install = true,
 	auto_install = true,
 
 	indent = {

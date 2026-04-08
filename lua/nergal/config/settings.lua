@@ -10,3 +10,8 @@ vim.opt.termguicolors = true
 vim.opt.wildmenu = true
 vim.opt.wildmode = "list:longest,list:full"
 
+vim.opt.wrap = true
+vim.opt.tabstop = 2
+vim.opt.shiftwidth = 2
+vim.opt.expandtab = true -- use spaces instead of tabs
+

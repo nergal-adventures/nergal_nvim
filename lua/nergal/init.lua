@@ -6,5 +6,7 @@ require("nergal.config.lualine")
 require("nergal.config.cmp")
 require("nergal.config.telescope")
 require("nergal.config.harpoon")
+require("nergal.config.gitsigns")
 require("nergal.config.lsp")
+require("nergal.config.rendermarkdown")
 
